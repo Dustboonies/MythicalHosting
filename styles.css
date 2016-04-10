@@ -1,0 +1,28 @@
+body{
+	background-color:lightgrey;
+	font-family: helvetica;
+}
+
+h1{
+	color:red;
+	font-family: courier;
+	border:3px solid black;
+	padding:14px;
+	margin: 25px;
+}
+p{
+	color:purple;
+	font-size=270%;
+	border:2px solid purple;
+}
+
+#p01{
+	color:blue;
+	border:2px solid green;
+}
+p.haha{
+	color:yellow;
+}
+a:link{
+color:green;background-color:yellow;text-decoration:underline;
+}
