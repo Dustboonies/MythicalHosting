@@ -1,0 +1,10 @@
+Dustin Feldsine and Henry Wang
+
+Domain name:
+mythicalhosting.com
+
+Website Idea: 
+Hosts virtual boxes off a server I will build.
+
+Goal:
+Learn more about javascript and html.
